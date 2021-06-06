@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45e5d1d8-1bee-40df-ae53-19b5c5aef4b5" name="Default Changelist" comment="Added Automation Test Suite">
-      <change beforePath="$PROJECT_DIR$/Interview_Task.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Interview_Task.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_25__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_25__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_28__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_28__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_28__Default_Changelist_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_28__Default_Changelist_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,10 +98,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added Automation Test Suite" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1097" y="339" key="Vcs.Push.Dialog.v2" timestamp="1622905628084">
+    <state x="1097" y="339" key="Vcs.Push.Dialog.v2" timestamp="1623004976282">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="1097" y="339" key="Vcs.Push.Dialog.v2/0.0.2194.1194@0.0.2194.1194" timestamp="1622905628084" />
+    <state x="1097" y="339" key="Vcs.Push.Dialog.v2/0.0.2194.1194@0.0.2194.1194" timestamp="1623004976282" />
     <state x="1282" y="318" key="git4idea.branch.GitSmartOperationDialog" timestamp="1622932099492">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
