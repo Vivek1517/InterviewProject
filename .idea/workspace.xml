@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,10 +22,26 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45e5d1d8-1bee-40df-ae53-19b5c5aef4b5" name="Default Changelist" comment="Added Automation Test Suite">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_25__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_25__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_28__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_28__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_28__Default_Changelist_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_28__Default_Changelist_1.xml" afterDir="false" />
+    <list default="true" id="14cc3a86-8f65-46b9-a915-919e91169e46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomationPracticeFrameWorkFornterview.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/feature/LogIn.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/InterviewProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_25_[Default_Changelist]/Interview_Task.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_25_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_25__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_28_[Default_Changelist]/Interview_Task.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_28_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_28_[Default_Changelist]1/Interview_Task.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_28_[Default_Changelist]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_28__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2021_23_28__Default_Changelist_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,54 +49,58 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="InterviewK" />
-      </map>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
     </option>
+  </component>
+  <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1tX87kI7AJpEC19x4GjE3xIx8XM" />
+  <component name="ProjectId" id="1uBLXEGna4pKizWZXSZNLcc43PI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPracticeFrameWorkFornterview" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="45e5d1d8-1bee-40df-ae53-19b5c5aef4b5" name="Default Changelist" comment="" />
-      <created>1622903908157</created>
+      <changelist id="14cc3a86-8f65-46b9-a915-919e91169e46" name="Default Changelist" comment="" />
+      <created>1624134077062</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1622903908157</updated>
+      <updated>1624134077062</updated>
     </task>
-    <task id="LOCAL-00001" summary="Added new tests">
-      <created>1622904262230</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1622904262230</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Added Automation Test Suite">
-      <created>1622904802951</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1622904802951</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,21 +113,39 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added new tests" />
-    <MESSAGE value="Added Automation Test Suite" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Automation Test Suite" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1097" y="339" key="Vcs.Push.Dialog.v2" timestamp="1623004976282">
-      <screen x="0" y="0" width="2194" height="1194" />
+    <state x="468" y="170" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624134782902">
+      <screen x="0" y="0" width="1366" height="724" />
     </state>
-    <state x="1097" y="339" key="Vcs.Push.Dialog.v2/0.0.2194.1194@0.0.2194.1194" timestamp="1623004976282" />
-    <state x="1282" y="318" key="git4idea.branch.GitSmartOperationDialog" timestamp="1622932099492">
-      <screen x="0" y="0" width="2194" height="1194" />
+    <state x="468" y="170" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.724@0.0.1366.724" timestamp="1624134782902" />
+    <state width="1324" height="257" key="GridCell.Tab.0.bottom" timestamp="1624214655168">
+      <screen x="0" y="0" width="1366" height="724" />
     </state>
-    <state x="1282" y="318" key="git4idea.branch.GitSmartOperationDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1622932099492" />
+    <state width="1324" height="257" key="GridCell.Tab.0.bottom/0.0.1366.724@0.0.1366.724" timestamp="1624214655168" />
+    <state width="1324" height="257" key="GridCell.Tab.0.center" timestamp="1624214655168">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1324" height="257" key="GridCell.Tab.0.center/0.0.1366.724@0.0.1366.724" timestamp="1624214655168" />
+    <state width="1324" height="257" key="GridCell.Tab.0.left" timestamp="1624214655168">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1324" height="257" key="GridCell.Tab.0.left/0.0.1366.724@0.0.1366.724" timestamp="1624214655168" />
+    <state width="1324" height="257" key="GridCell.Tab.0.right" timestamp="1624214655168">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1324" height="257" key="GridCell.Tab.0.right/0.0.1366.724@0.0.1366.724" timestamp="1624214655168" />
+    <state x="217" y="21" key="Maven.ArtifactSearchDialog" timestamp="1624140912306">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="217" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.724@0.0.1366.724" timestamp="1624140912306" />
+    <state x="211" y="0" key="SettingsEditor" timestamp="1624140910029">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="211" y="0" key="SettingsEditor/0.0.1366.724@0.0.1366.724" timestamp="1624140910029" />
+    <state x="431" y="288" width="516" height="147" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1624186477900">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="431" y="288" width="516" height="147" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.724@0.0.1366.724" timestamp="1624186477900" />
   </component>
 </project>
