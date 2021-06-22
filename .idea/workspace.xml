@@ -23,11 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14cc3a86-8f65-46b9-a915-919e91169e46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/feature/KsearchItem.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +101,10 @@
       <screen x="0" y="0" width="1366" height="724" />
     </state>
     <state x="468" y="170" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.724@0.0.1366.724" timestamp="1624134782902" />
+    <state x="466" y="121" key="FileChooserDialogImpl" timestamp="1624311047123">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="466" y="121" key="FileChooserDialogImpl/0.0.1366.724@0.0.1366.724" timestamp="1624311047123" />
     <state width="1324" height="257" key="GridCell.Tab.0.bottom" timestamp="1624214655168">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
@@ -134,6 +133,10 @@
       <screen x="0" y="0" width="1366" height="724" />
     </state>
     <state x="279" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.724@0.0.1366.724" timestamp="1624215014183" />
+    <state x="112" y="28" key="new project wizard" timestamp="1624311049001">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="112" y="28" key="new project wizard/0.0.1366.724@0.0.1366.724" timestamp="1624311049001" />
     <state x="431" y="288" width="516" height="147" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1624186477900">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
