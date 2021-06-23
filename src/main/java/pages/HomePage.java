@@ -19,6 +19,14 @@ public class HomePage extends BasePage {
     WebElement search;
     @FindBy(className="submit_search")
     WebElement clickSearch;
+    @FindBy(id="newsletter-input")
+    WebElement newsLetter;
+    @FindBy(name="submitNewsletter")
+    WebElement clickNext;
+    @FindBy(css=".alert.alert-danger")
+    WebElement subscriptionErrorMessage;
+    @FindBy(css= ".alert.alert-success")
+    WebElement subscriptionSucessMessage;
 
     public boolean isOnHomePage(){
         return Util.isDiplayed(logo);
@@ -32,5 +40,17 @@ public class HomePage extends BasePage {
     public void enterProduct(String product){
         Util.sendKeys(search,product);
         Util.click(clickSearch);
+    }
+    public void enterEmailForNewsletter(String email){
+        Util.sendKeys(newsLetter,email);
+    }
+    public void clickOnNext(){
+        Util.click(clickNext);
+    }
+    public String newsLetterErrorMessage(){
+        return Util.getText(subscriptionErrorMessage);
+    }
+    public String newsLetterSucessMessage(){
+        return Util.getText(subscriptionSucessMessage);
     }
 }

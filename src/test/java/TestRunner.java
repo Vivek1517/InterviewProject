@@ -4,7 +4,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(features="src/test/feature",
-tags = "@login",
+tags = "@NewsLetter1",
 publish = true)
 
 public class TestRunner {
