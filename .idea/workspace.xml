@@ -22,7 +22,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14cc3a86-8f65-46b9-a915-919e91169e46" name="Default Changelist" comment="" />
+    <list default="true" id="14cc3a86-8f65-46b9-a915-919e91169e46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/feature/NewsLetter.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefiniton/HomeSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRunner.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +101,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="96" y="96" width="1174" height="532" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1624477593421">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="96" y="96" width="1174" height="532" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.724@0.0.1366.724" timestamp="1624477593421" />
     <state x="468" y="170" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624134782902">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
@@ -103,22 +113,22 @@
       <screen x="0" y="0" width="1366" height="724" />
     </state>
     <state x="466" y="121" key="FileChooserDialogImpl/0.0.1366.724@0.0.1366.724" timestamp="1624311047123" />
-    <state width="1324" height="257" key="GridCell.Tab.0.bottom" timestamp="1624214655168">
+    <state width="1324" height="257" key="GridCell.Tab.0.bottom" timestamp="1624477860620">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
-    <state width="1324" height="257" key="GridCell.Tab.0.bottom/0.0.1366.724@0.0.1366.724" timestamp="1624214655168" />
-    <state width="1324" height="257" key="GridCell.Tab.0.center" timestamp="1624214655168">
+    <state width="1324" height="257" key="GridCell.Tab.0.bottom/0.0.1366.724@0.0.1366.724" timestamp="1624477860620" />
+    <state width="1324" height="257" key="GridCell.Tab.0.center" timestamp="1624477860620">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
-    <state width="1324" height="257" key="GridCell.Tab.0.center/0.0.1366.724@0.0.1366.724" timestamp="1624214655168" />
-    <state width="1324" height="257" key="GridCell.Tab.0.left" timestamp="1624214655168">
+    <state width="1324" height="257" key="GridCell.Tab.0.center/0.0.1366.724@0.0.1366.724" timestamp="1624477860620" />
+    <state width="1324" height="257" key="GridCell.Tab.0.left" timestamp="1624477860620">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
-    <state width="1324" height="257" key="GridCell.Tab.0.left/0.0.1366.724@0.0.1366.724" timestamp="1624214655168" />
-    <state width="1324" height="257" key="GridCell.Tab.0.right" timestamp="1624214655168">
+    <state width="1324" height="257" key="GridCell.Tab.0.left/0.0.1366.724@0.0.1366.724" timestamp="1624477860620" />
+    <state width="1324" height="257" key="GridCell.Tab.0.right" timestamp="1624477860620">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
-    <state width="1324" height="257" key="GridCell.Tab.0.right/0.0.1366.724@0.0.1366.724" timestamp="1624214655168" />
+    <state width="1324" height="257" key="GridCell.Tab.0.right/0.0.1366.724@0.0.1366.724" timestamp="1624477860620" />
     <state x="217" y="21" key="Maven.ArtifactSearchDialog" timestamp="1624140912306">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
@@ -135,9 +145,9 @@
       <screen x="0" y="0" width="1366" height="724" />
     </state>
     <state x="112" y="28" key="new project wizard/0.0.1366.724@0.0.1366.724" timestamp="1624311049001" />
-    <state x="431" y="288" width="516" height="147" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1624186477900">
+    <state x="431" y="288" width="516" height="147" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1624475680536">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
-    <state x="431" y="288" width="516" height="147" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.724@0.0.1366.724" timestamp="1624186477900" />
+    <state x="431" y="288" width="516" height="147" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.724@0.0.1366.724" timestamp="1624475680536" />
   </component>
 </project>
